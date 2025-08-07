@@ -32,7 +32,9 @@
 
 ### 1. Registration Page
 * Users can create a new account to join the platform.
-    ![A user signing up on the Petgram registration page]<img width="1919" height="1018" alt="Screenshot 2025-08-07 125812" src="https://github.com/user-attachments/assets/43168c5f-78b9-4414-8b45-8e0477d20b2c" />
+     [A user signing up on the Petgram registration page]
+
+  <img width="1919" height="1018" alt="Screenshot 2025-08-07 125812" src="https://github.com/user-attachments/assets/43168c5f-78b9-4414-8b45-8e0477d20b2c" />
 
 
 ---
