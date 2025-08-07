@@ -32,7 +32,7 @@
 
 ### 1. Registration Page
 * Users can create a new account to join the platform.
-     [A user signing up on the Petgram registration page]
+   
 
   <img width="1919" height="1018" alt="Screenshot 2025-08-07 125812" src="https://github.com/user-attachments/assets/43168c5f-78b9-4414-8b45-8e0477d20b2c" />
 
@@ -41,37 +41,56 @@
 
 ### 2. Login Page
 * Secure login for existing users.
-    ![A user logging into the Petgram application](https://github.com/user-attachments/assets/b3310f84-b043-4ce4-8e10-94e8a1d7c470)
+
+<img width="1919" height="1018" alt="Screenshot 2025-08-07 125754" src="https://github.com/user-attachments/assets/b14b00e3-0b9e-4a5f-b059-9df4264d497e" />
+
 
 ---
 
 ### 3. Home Feed
 * The main dashboard where users can see posts from others. Includes a "Who to follow" suggestion sidebar.
-    ![The main home feed of Petgram showing posts from other users](https://github.com/user-attachments/assets/ba0800b9-1383-4a16-832f-45b637508006)
+
+
+<img width="1919" height="1019" alt="Screenshot 2025-08-07 125833" src="https://github.com/user-attachments/assets/a1ed1916-e0ca-44db-8550-c76e45b5a02e" />
+
 
 ---
 
 ### 4. User Profile Page
 * Dedicated pages for each pet's profile, showing their posts and follower counts.
-    ![A profile page for a pet named Tommy The Dog](https://github.com/user-attachments/assets/3dd035b8-53e7-4959-b1d3-3532c2534a41)
+
+
+<img width="1919" height="1017" alt="Screenshot 2025-08-07 125855" src="https://github.com/user-attachments/assets/2c3b9e80-5091-4b87-9d71-654d2c4472b8" />
+
+
+<img width="1919" height="1022" alt="Screenshot 2025-08-07 125911" src="https://github.com/user-attachments/assets/e069079c-28d9-4fb2-801b-7b18870b64e2" />
 
 ---
 
 ### 5. Creating a Post
 * Users can easily create new posts with text and images.
-    ![The user interface for creating a new post with an image of a shih tzu](https://github.com/user-attachments/assets/2b528b9a-4cce-47a3-b0ac-63d1a4918f6c)
+
+
+<img width="1919" height="1021" alt="Screenshot 2025-08-07 130255" src="https://github.com/user-attachments/assets/26ec42ca-efa3-4e90-9a62-fdfba4f610df" />
+
 
 ---
 
 ### 6. Viewing Comments
 * An interactive comment section for each post.
-    ![The comments section expanded on a post in Petgram](https://github.com/user-attachments/assets/b05b38ed-3574-4b52-b8d9-e380f68e0d47)
+
+
+<img width="1919" height="1013" alt="Screenshot 2025-08-07 130001" src="https://github.com/user-attachments/assets/323ebd74-1b49-4d61-a977-6838ad1ae14e" />
+
 
 ---
 
 ### 7. Notifications Page
 * A dedicated page to view notifications and interactions.
-    ![The notifications page in Petgram, currently showing no new notifications](https://github.com/user-attachments/assets/bcf1cc11-8f9f-4404-b9c1-54c34a2c5a05)
+
+
+<img width="1919" height="1023" alt="Screenshot 2025-08-07 125918" src="https://github.com/user-attachments/assets/69278f8a-c532-4949-8cd0-fd710e264ef9" />
+
 
 ---
 
