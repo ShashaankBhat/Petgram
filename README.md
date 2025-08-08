@@ -138,8 +138,12 @@
 
 ## Author
 
-**Shashank Bhat** Final-year Computer Science Engineering student at MGM University  
+**Shashank Bhat** Final-year Computer Science Engineering student at MGM University 
 [LinkedIn](https://www.linkedin.com/in/shashankbhat2004) • [GitHub](https://github.com/ShashaankBhat)
+**Saniya Sheldarkar** Final-year Computer Science Engineering student at MGM University  
+[LinkedIn](www.linkedin.com/in/saniya-sheldarkar) • [GitHub](https://github.com/SaniyaSheldarkar)
+
+
 
 ---
 
